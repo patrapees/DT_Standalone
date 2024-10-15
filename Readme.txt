@@ -10,6 +10,7 @@
 1. Download program
 2. Create Directory c:\certificate
 3. Extract all download files to c:\certificate
+4. Change file RmStandalone_Sign....jar (lastest) to DT_Standalone.jar
 4. (for example) Make PDF Source Directory, Create Directory c:\certificate\pdf_source
 5. (for example) Make PDF Output directory, Create Directory c:\certificate\pdf_digital
 
